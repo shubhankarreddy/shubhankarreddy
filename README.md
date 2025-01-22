@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**shubhankarreddy/shubhankarreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Welcome to my GitHub! 👋
+# Welcome to my GitHub profile!, I am Shubhankar! 👋
 
 ![Welcome Banner](https://i.ibb.co/BG5cNBY)
 
@@ -25,5 +20,3 @@
 Feel free to reach out for collaboration or discussions:
 - [LinkedIn](https://www.linkedin.com/in/shubhankar-reddy-123456789/)
 - 📫 How to reach me: reddy.shubhankar@gmail.com
-
--->
