@@ -3,7 +3,7 @@
 ![Welcome Banner](https://github.com/shubhankarreddy/shubhankarreddy/blob/57a06e20f117566affe1c4891c2f4bda04f955eb/banner.png)
 
 ### About Me:
-- Data Science Enthusiast with expertise in SQL, Python, and Power BI.
+- Data Science Analyst with expertise in SQL, Python, and Power BI.
 - Passionate about analyzing data to uncover actionable insights and solve real-world problems.
 - Actively working on data analysis and visualization projects, including predictive analytics.
 
